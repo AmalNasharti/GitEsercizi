@@ -18,3 +18,6 @@ Being satisfied of your work you add and commit your modification locally and pu
 
 ## Exercise 7 
 Now you need to pull down the changes to your local environment.
+
+## Excercise 8
+Change something in the main locally and solve the conflict.
