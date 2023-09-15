@@ -9,3 +9,6 @@ Update on your machine a file that was modified on GitHub.
 
 ## Exercise 4 
 Create a Python file that print numbers from 1 to 10 and push it into GitHub.
+
+## Excercise 5
+Create a new branch locally where to calculate the sum of all numbers in sum.py. You should add and commit your modification locally and push them to a GitHub feature brach before merging.
