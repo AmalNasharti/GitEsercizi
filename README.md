@@ -15,3 +15,6 @@ Create a new branch locally where to calculate the sum of all numbers in sum.py.
 
 ## Exercise 6
 Being satisfied of your work you add and commit your modification locally and push them to a GitHub feature brach before merging. Then you make a pull request to make others revise your code.
+
+## Exercise 7 
+Now you need to pull down the changes to your local environment.
